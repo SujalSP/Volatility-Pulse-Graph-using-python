@@ -36,7 +36,6 @@ Volatility Pulse Graph
 - Market volatility detection
 - Quantitative finance research
 
-
 ## Example Output
 Volatility pulse graph showing periods of market instability.
 
